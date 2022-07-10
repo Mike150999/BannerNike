@@ -6,6 +6,7 @@ margin: 0 auto;
 	height: 602px;
 	overflow: hidden;
 	width: 302px;
+	margin-top: 50px;
 }
 
 .hide{
@@ -227,7 +228,6 @@ margin-top: 10px;
 	}
  }
  
-
 .banner__button{
 	font-family: 'Barlow Condensed', sans-serif;
 	font-weight: 700 ;

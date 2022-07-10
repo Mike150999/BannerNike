@@ -59,7 +59,7 @@ class Banner {
 	constructor({ image, link, model, price, currency }) {
 		this.image = image;
 		this.link = link;
-		this.model = model;
+		this.model = model; 
 		this.price = price;
 		this.currency = currency;
 	}
